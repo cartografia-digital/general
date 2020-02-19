@@ -1,2 +1,2 @@
 # general
-Repositorio de mis primeras pruebas GitHub
+Repositorio de mis primeras pruebas con GitHub.
